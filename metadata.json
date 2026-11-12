@@ -1,0 +1,9 @@
+{
+  "name": "تبيان | خطط حفظ ومراجعة القرآن والمتون",
+  "description": "منصة شاملة لإنشاء خطط حفظ ومراجعة القرآن الكريم والمتون العلمية، تقسيم المقررات وجدولتها زمنياً، متابعة الورد اليومي مع نظام تقييم الإتقان والإنجاز.",
+  "requestFramePermissions": [
+    "notifications",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
